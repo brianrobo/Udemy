@@ -1,7 +1,8 @@
-#Section 1 Course Overview
+# Section01 - Course Overview
 
 
 
 ## Status
-* [] 1.Course Introduction
+* [x] 1. Course Introduction
+* [ ] 2. Course Curriculum Overview
 
